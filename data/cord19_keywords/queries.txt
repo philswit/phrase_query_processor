@@ -1,0 +1,199 @@
+<Q ID=1>
+  coronavirus origin
+</Q>
+
+<Q ID=2>
+  coronavirus response to weather changes
+</Q>
+
+<Q ID=3>
+  coronavirus immunity
+</Q>
+
+<Q ID=4>
+  how do people die from the coronavirus
+</Q>
+
+<Q ID=5>
+  animal models of COVID-19
+</Q>
+
+<Q ID=6>
+  coronavirus test rapid testing
+</Q>
+
+<Q ID=7>
+  serological tests for coronavirus
+</Q>
+
+<Q ID=8>
+  coronavirus under reporting
+</Q>
+
+<Q ID=9>
+  coronavirus in Canada
+</Q>
+
+<Q ID=10>
+  coronavirus social distancing impact
+</Q>
+
+<Q ID=11>
+  coronavirus hospital rationing
+</Q>
+
+<Q ID=12>
+  coronavirus quarantine
+</Q>
+
+<Q ID=13>
+  how does coronavirus spread
+</Q>
+
+<Q ID=14>
+  coronavirus super spreaders
+</Q>
+
+<Q ID=15>
+  coronavirus outside body
+</Q>
+
+<Q ID=16>
+  how long does coronavirus survive on surfaces
+</Q>
+
+<Q ID=17>
+  coronavirus clinical trials
+</Q>
+
+<Q ID=18>
+  masks prevent coronavirus
+</Q>
+
+<Q ID=19>
+  what alcohol sanitizer kills coronavirus
+</Q>
+
+<Q ID=20>
+  coronavirus and ACE inhibitors
+</Q>
+
+<Q ID=21>
+  coronavirus mortality
+</Q>
+
+<Q ID=22>
+  coronavirus heart impacts
+</Q>
+
+<Q ID=23>
+  coronavirus hypertension
+</Q>
+
+<Q ID=24>
+  coronavirus diabetes
+</Q>
+
+<Q ID=25>
+  coronavirus biomarkers
+</Q>
+
+<Q ID=26>
+  coronavirus early symptoms
+</Q>
+
+<Q ID=27>
+  coronavirus asymptomatic
+</Q>
+
+<Q ID=28>
+  coronavirus hydroxychloroquine
+</Q>
+
+<Q ID=29>
+  coronavirus drug repurposing
+</Q>
+
+<Q ID=30>
+  coronavirus remdesivir
+</Q>
+
+<Q ID=31>
+  difference between coronavirus and flu
+</Q>
+
+<Q ID=32>
+  coronavirus subtypes
+</Q>
+
+<Q ID=33>
+  coronavirus vaccine candidates
+</Q>
+
+<Q ID=34>
+  coronavirus recovery
+</Q>
+
+<Q ID=35>
+  coronavirus public datasets
+</Q>
+
+<Q ID=36>
+  SARS-CoV-2 spike structure
+</Q>
+
+<Q ID=37>
+  SARS-CoV-2 phylogenetic analysis
+</Q>
+
+<Q ID=38>
+  COVID inflammatory response
+</Q>
+
+<Q ID=39>
+  COVID-19 cytokine storm
+</Q>
+
+<Q ID=40>
+  coronavirus mutations
+</Q>
+
+<Q ID=41>
+  COVID-19 in African-Americans
+</Q>
+
+<Q ID=42>
+  Vitamin D and COVID-19
+</Q>
+
+<Q ID=43>
+  violence during pandemic
+</Q>
+
+<Q ID=44>
+  impact of masks on coronavirus transmission
+</Q>
+
+<Q ID=45>
+  coronavirus mental health impact
+</Q>
+
+<Q ID=46>
+  dexamethasone coronavirus
+</Q>
+
+<Q ID=47>
+  COVID-19 outcomes in children
+</Q>
+
+<Q ID=48>
+  school reopening coronavirus
+</Q>
+
+<Q ID=49>
+  post-infection COVID-19 immunity
+</Q>
+
+<Q ID=50>
+  mRNA vaccine coronavirus
+</Q>

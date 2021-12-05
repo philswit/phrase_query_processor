@@ -1,0 +1,604 @@
+<Q ID=0>
+what is the
+</Q>
+
+<Q ID=1>
+origin of covid how
+</Q>
+
+<Q ID=2>
+does the coronavirus respond to
+</Q>
+
+<Q ID=3>
+changes in
+</Q>
+
+<Q ID=4>
+the weather will
+</Q>
+
+<Q ID=5>
+sarscov infected people develop
+</Q>
+
+<Q ID=6>
+immunity is cross protection possible
+</Q>
+
+<Q ID=7>
+what causes
+</Q>
+
+<Q ID=8>
+death from covid
+</Q>
+
+<Q ID=9>
+what drugs have been
+</Q>
+
+<Q ID=10>
+active against sarscov or sarscov
+</Q>
+
+<Q ID=11>
+in animal
+</Q>
+
+<Q ID=12>
+studies what types
+</Q>
+
+<Q ID=13>
+of rapid testing for
+</Q>
+
+<Q ID=14>
+covid have been developed are
+</Q>
+
+<Q ID=15>
+there serological
+</Q>
+
+<Q ID=16>
+tests that detect
+</Q>
+
+<Q ID=17>
+antibodies to coronavirus how
+</Q>
+
+<Q ID=18>
+has lack of testing availability
+</Q>
+
+<Q ID=19>
+led to
+</Q>
+
+<Q ID=20>
+underreporting of true
+</Q>
+
+<Q ID=21>
+incidence of covid how
+</Q>
+
+<Q ID=22>
+has covid affected canada has
+</Q>
+
+<Q ID=23>
+social distancing
+</Q>
+
+<Q ID=24>
+had an impact
+</Q>
+
+<Q ID=25>
+on slowing the spread
+</Q>
+
+<Q ID=26>
+of covid what are the
+</Q>
+
+<Q ID=27>
+guidelines for
+</Q>
+
+<Q ID=28>
+triaging patients infected
+</Q>
+
+<Q ID=29>
+with coronavirus what are
+</Q>
+
+<Q ID=30>
+best practices in hospitals and
+</Q>
+
+<Q ID=31>
+at home
+</Q>
+
+<Q ID=32>
+in maintaining quarantine
+</Q>
+
+<Q ID=33>
+what are the transmission
+</Q>
+
+<Q ID=34>
+routes of coronavirus what evidence
+</Q>
+
+<Q ID=35>
+is there
+</Q>
+
+<Q ID=36>
+related to covid
+</Q>
+
+<Q ID=37>
+super spreaders how long
+</Q>
+
+<Q ID=38>
+can the coronavirus live outside
+</Q>
+
+<Q ID=39>
+the body
+</Q>
+
+<Q ID=40>
+how long does
+</Q>
+
+<Q ID=41>
+coronavirus remain stable on
+</Q>
+
+<Q ID=42>
+surfaces are there any clinical
+</Q>
+
+<Q ID=43>
+trials available
+</Q>
+
+<Q ID=44>
+for the coronavirus
+</Q>
+
+<Q ID=45>
+what are the best
+</Q>
+
+<Q ID=46>
+masks for preventing infection by
+</Q>
+
+<Q ID=47>
+covid what
+</Q>
+
+<Q ID=48>
+type of hand
+</Q>
+
+<Q ID=49>
+sanitizer is needed to
+</Q>
+
+<Q ID=50>
+destroy covid are patients taking
+</Q>
+
+<Q ID=51>
+angiotensinconverting enzyme
+</Q>
+
+<Q ID=52>
+inhibitors ace at
+</Q>
+
+<Q ID=53>
+increased risk for covid
+</Q>
+
+<Q ID=54>
+what are the mortality rates
+</Q>
+
+<Q ID=55>
+overall and
+</Q>
+
+<Q ID=56>
+in specific populations
+</Q>
+
+<Q ID=57>
+are cardiac complications likely
+</Q>
+
+<Q ID=58>
+in patients with covid what
+</Q>
+
+<Q ID=59>
+kinds of
+</Q>
+
+<Q ID=60>
+complications related to
+</Q>
+
+<Q ID=61>
+covid are associated with
+</Q>
+
+<Q ID=62>
+hypertension what kinds of complications
+</Q>
+
+<Q ID=63>
+related to
+</Q>
+
+<Q ID=64>
+covid are associated
+</Q>
+
+<Q ID=65>
+with diabetes which biomarkers
+</Q>
+
+<Q ID=66>
+predict the severe clinical course
+</Q>
+
+<Q ID=67>
+of ncov
+</Q>
+
+<Q ID=68>
+infection what are
+</Q>
+
+<Q ID=69>
+the initial symptoms of
+</Q>
+
+<Q ID=70>
+covid what is known about
+</Q>
+
+<Q ID=71>
+those infected
+</Q>
+
+<Q ID=72>
+with covid but
+</Q>
+
+<Q ID=73>
+are asymptomatic what evidence
+</Q>
+
+<Q ID=74>
+is there for the value
+</Q>
+
+<Q ID=75>
+of hydroxychloroquine
+</Q>
+
+<Q ID=76>
+in treating covid
+</Q>
+
+<Q ID=77>
+which sarscov proteinshuman proteins
+</Q>
+
+<Q ID=78>
+interactions indicate potential for drug
+</Q>
+
+<Q ID=79>
+targets are
+</Q>
+
+<Q ID=80>
+there approved drugs
+</Q>
+
+<Q ID=81>
+that can be repurposed
+</Q>
+
+<Q ID=82>
+based on this information is
+</Q>
+
+<Q ID=83>
+remdesivir an
+</Q>
+
+<Q ID=84>
+effective treatment for
+</Q>
+
+<Q ID=85>
+covid how does the
+</Q>
+
+<Q ID=86>
+coronavirus differ from seasonal flu
+</Q>
+
+<Q ID=87>
+does sarscov
+</Q>
+
+<Q ID=88>
+have any subtypes
+</Q>
+
+<Q ID=89>
+and if so what
+</Q>
+
+<Q ID=90>
+are they what vaccine candidates
+</Q>
+
+<Q ID=91>
+are being
+</Q>
+
+<Q ID=92>
+tested for covid
+</Q>
+
+<Q ID=93>
+what are the longerterm
+</Q>
+
+<Q ID=94>
+complications of those who recover
+</Q>
+
+<Q ID=95>
+from covid
+</Q>
+
+<Q ID=96>
+what new public
+</Q>
+
+<Q ID=97>
+datasets are available related
+</Q>
+
+<Q ID=98>
+to covid what is the
+</Q>
+
+<Q ID=99>
+protein structure
+</Q>
+
+<Q ID=100>
+of the sarscov
+</Q>
+
+<Q ID=101>
+spike what is the
+</Q>
+
+<Q ID=102>
+result of phylogenetic analysis of
+</Q>
+
+<Q ID=103>
+sarscov genome
+</Q>
+
+<Q ID=104>
+sequence what is
+</Q>
+
+<Q ID=105>
+the mechanism of inflammatory
+</Q>
+
+<Q ID=106>
+response and pathogenesis of covid
+</Q>
+
+<Q ID=107>
+cases what
+</Q>
+
+<Q ID=108>
+is the mechanism
+</Q>
+
+<Q ID=109>
+of cytokine storm syndrome
+</Q>
+
+<Q ID=110>
+on the covid what are
+</Q>
+
+<Q ID=111>
+the observed
+</Q>
+
+<Q ID=112>
+mutations in the
+</Q>
+
+<Q ID=113>
+sarscov genome and how
+</Q>
+
+<Q ID=114>
+often do the mutations occur
+</Q>
+
+<Q ID=115>
+what are
+</Q>
+
+<Q ID=116>
+the impacts of
+</Q>
+
+<Q ID=117>
+covid among africanamericans that
+</Q>
+
+<Q ID=118>
+differ from the rest of
+</Q>
+
+<Q ID=119>
+the us
+</Q>
+
+<Q ID=120>
+population does vitamin
+</Q>
+
+<Q ID=121>
+d impact covid prevention
+</Q>
+
+<Q ID=122>
+and treatment how has the
+</Q>
+
+<Q ID=123>
+covid pandemic
+</Q>
+
+<Q ID=124>
+impacted violence in
+</Q>
+
+<Q ID=125>
+society including violent crimes
+</Q>
+
+<Q ID=126>
+how much impact do masks
+</Q>
+
+<Q ID=127>
+have on
+</Q>
+
+<Q ID=128>
+preventing the spread
+</Q>
+
+<Q ID=129>
+of the covid how
+</Q>
+
+<Q ID=130>
+has the covid pandemic impacted
+</Q>
+
+<Q ID=131>
+mental health
+</Q>
+
+<Q ID=132>
+what evidence is
+</Q>
+
+<Q ID=133>
+there for dexamethasone as
+</Q>
+
+<Q ID=134>
+a treatment for covid what
+</Q>
+
+<Q ID=135>
+are the
+</Q>
+
+<Q ID=136>
+health outcomes for
+</Q>
+
+<Q ID=137>
+children who contract covid
+</Q>
+
+<Q ID=138>
+what are the benefits and
+</Q>
+
+<Q ID=139>
+risks of
+</Q>
+
+<Q ID=140>
+reopening schools in
+</Q>
+
+<Q ID=141>
+the midst of the
+</Q>
+
+<Q ID=142>
+covid pandemic do individuals who
+</Q>
+
+<Q ID=143>
+recover from
+</Q>
+
+<Q ID=144>
+covid show sufficient
+</Q>
+
+<Q ID=145>
+immune response including antibody
+</Q>
+
+<Q ID=146>
+levels and tcell mediated immunity
+</Q>
+
+<Q ID=147>
+to prevent
+</Q>
+
+<Q ID=148>
+reinfection what is
+</Q>
+
+<Q ID=149>
+known about an mrna
+</Q>
+
+<Q ID=150>
+vaccine for the sarscov virus
+</Q>
+

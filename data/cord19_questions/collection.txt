@@ -1,0 +1,1 @@
+../cord19_keywords/collection.txt

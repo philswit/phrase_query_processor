@@ -1,0 +1,31 @@
+<P ID=1>
+brie cheddar cheddar derby derby edam edam edam
+</P>
+
+<P ID=2>
+brie brie cheddar cheddar derby derby derby
+</P>
+
+<P ID=3>
+derby derby derby edam edam edam edam
+</P>
+
+<P ID=4>
+derby derby edam edam edam edam
+</P>
+
+<P ID=5>
+asiago asiago asiago asiago derby derby derby
+</P>
+
+<P ID=6>
+brie derby derby derby
+</P>
+
+<P ID=7>
+derby derby edam edam edam edam edam
+</P>
+
+<P ID=8>
+brie brie derby derby
+</P>

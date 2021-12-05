@@ -1,0 +1,19 @@
+<Q ID=1>
+asiago brie brie derby
+</Q>
+
+<Q ID=2>
+brie brie cheddar cheddar
+</Q>
+
+<Q ID=3>
+asiago derby
+</Q>
+
+<Q ID=4>
+derby edam edam
+</Q>
+
+<Q ID=5>
+edam edam edam edam
+</Q>
